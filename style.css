@@ -35,6 +35,42 @@ body {
     top: 190px;
     left: 500px;
 }
+
 /* banner styles finished */
 
-/*  */
+/* First section starts */
+
+.first-section-offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.first-section-text {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.first-section-category {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.first-section-image {
+    width: 800px;
+    height: 500px;
+    margin: 0px auto;
+}
