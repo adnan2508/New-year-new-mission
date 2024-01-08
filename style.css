@@ -308,3 +308,23 @@ body {
 /* Holiday sale ends */
 
 /*Discount styles*/
+.discount {
+    width: 1320px;
+    height: 650px;
+    margin: 0px auto;
+    position: relative;
+    background-image: url('images/Rectangle 2.png'), url('images/Rectangle 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom, top right;
+}
+/* discount starts*/
+.discount-left {
+    position: absolute;
+    left: 10px;
+}
+.discount-right {
+    position: absolute;
+    top: 80px;
+    right: 290px;
+}
+/* discount ends */
