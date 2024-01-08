@@ -391,8 +391,88 @@ body {
 .second-row img:hover {
     border: 2px solid green;
 }
+
 /* Portfolio section ends */
 
 /* Newsletter section styles*/
+.newsletter-section {
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 0px auto;
+}
 
+.newsletter-icon {
+    width: 150px;
+    height: 150px;
+    padding: 50px 580px 30px 580px;
+    margin-bottom: 0px;
+}
+
+.newsletter-title {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.newsletter-description {
+    max-width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 10px auto;
+}
+
+.newsletter-form {
+    display: flex;
+    align-items: center;
+    padding: 48px 320px;
+}
+
+input {
+    width: 680px;
+    height: 20px;
+    background: #FFF;
+    border: none;
+    border-radius: 50px;
+    color: rgba(7, 2, 17, 0.30);
+    padding: 30px 25px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+label {
+    position: relative;
+}
+
+.newsletter-btn {
+    width: 240px;
+    height: 80px;
+    border: none;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: #FFF;
+    padding: 24px 40px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    text-transform: capitalize;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
 /* Newsletter section ends */
+
+/* Footer starts here */
+
+/* THE END! */
